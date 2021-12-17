@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 32 32">
     <g id="Groupe_1351" data-name="Groupe 1351" transform="translate(-239.068 -90.335)">
         <path id="Tracé_2760" data-name="Tracé 2760" d="M287.436,118.854h-5.691v-6.671h-3.309v11.841c0,7.753,3.968,8.911,6.333,8.911h2.667v-3.306h-2.667a2.288,2.288,0,0,1-2.284-1.385c-.364-.715-.6-4.927-.694-6.15h5.644Z" transform="translate(-27.868 -16.224)" fill="#fff"></path>
         <g id="Groupe_1350" data-name="Groupe 1350" transform="translate(239.068 90.335)">
