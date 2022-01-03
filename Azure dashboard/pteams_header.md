@@ -58,7 +58,7 @@
     <div style="box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column; justify-content: center;">
         <h2 style="margin: 0px; padding: 0px; text-align: center;">DB</h2>
     </div>
-    <div style="box-sizing: border-box; display: flex; flex: 1; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column; justify-content: center;">
+    <div style="box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column; justify-content: center;">
         <h2 style="margin: 0px; padding: 0px; text-align: center;">Analytics</h2>
     </div>
     <div style="box-sizing: border-box; display: flex; flex: 1; width: 100%; flex-direction: column; justify-content: center; border-left: 2px solid #e7e7e7; border-right: 2px solid transparent;">
