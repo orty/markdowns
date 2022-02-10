@@ -1,4 +1,4 @@
-<div style="overflow: hidden;height: 415px;">
+<div style="overflow: hidden; position: absolute; top: 0; right: 0; bottom: 0; left: 0;">
     <div style="display: flex;flex-flow: column nowrap;margin: -15px 0 !important;height: calc(100% + 30px);">
         <div style="box-sizing: border-box;border-top: 2px solid transparent;border-bottom: 2px solid rgb(231, 231, 231);display: flex;flex-direction: column;justify-content: center;height: 100%;flex: 1;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="45" height="45" style="flex-grow: 1;margin-top: 15px;">
