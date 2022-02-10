@@ -1,4 +1,4 @@
-<div style="overflow: hidden;">
+<div style="overflow: hidden; position: absolute; top: 0; right: 0; bottom: 0; left: 0;">
 <div style="display: flex; flex-flow: row nowrap; justify-content: center; height: 55px; margin: 0px -15px;">
     <div style="box-sizing: border-box; border-left: 2px solid transparent; border-right: 2px solid #e7e7e7; display: flex; flex: 1.5; flex-direction: column; justify-content: center; width: 100%;">
         <div style="display: flex; flex-flow: row nowrap; justify-content: center;">
