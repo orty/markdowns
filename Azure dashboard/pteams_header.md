@@ -1,9 +1,9 @@
-<div style="overflow: hidden; position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin: -4px 0 !important;">
+<div style="position: absolute;inset: -4px 0;">
     <div style="display: flex; flex-flow: row nowrap; justify-content: center; height: 55px; margin: 0px -15px;">
         <div style="box-sizing: border-box; border-left: 2px solid transparent; border-right: 2px solid #e7e7e7; display: flex; flex: 1.5; flex-direction: column; width: 100%;">
             <div style="display: flex; flex-flow: row nowrap; justify-content: center;">
                 <h2 style="margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAA7NJREFUSEvFlltoE0EUhv/ZTUxEa1vbahEsgiapWryj2MTigygKplJBWoqIKIqkqHirVNDUiiLitRZvqCjS+CQmVcEXUWlf+lRMCl6xjQbqhdJGbWNMdmR3s3GT3U03peC8TGZ3cr7znzlzzpL8/HyK/zDIaMG5EwnKLLzPcr9Jch14x2Dwp7amUYNbGoCatRSgPCx1hH9xqNjKINinHcpRgUuKga5WCRgHwMoIcWw+yuBxe+bzGxX4XiOwrpxRtXz1AUXDlZHTJmuwYx6F77QBoBxAmJQ58BGocI0M5T3OGvzoFIvyMqXx8BBBxe44gl8SgTDnAJEfmvHWBJPiUjBbroF7eha0yycYcJQReJsYEFk+UQph7brEwfNMdIhsaASmWkHv7NCEq4IlKHivAcQbFwlzW5MB9jlKEZ7nHFzNnAjlHd7ZKvzm+t5owhXgdCjndQuKHXMJfMdYUBAQ0OQc6AXWu/9g8Ne/MJAFTjCV7ozwFLAWVFB71KhQGx4C1h+Pwd+jPPOR4ElwJqh9NoHvCH9X+SvEh1Sc665z8LwUQ6w2MsEFcCaooLbBiPLS1Ht7vz0G13W+eIxQKDTCToqWrKKobgY1mMUzSZypZM5RysBbb1RYDwTjGBjShp7xcmh/nUg4GZyNfAX74BDItMvvaTQmlrx0qKC2fhzKbepVSgt7vyMO180/Ka/lYc+ZREGst/y0PzwRlqWFGLhxGH0PxavAD7uNge+AQVGh0iuWfO3piKHudkzhU3FVLfK2ncK7zu+YUgyQopIZdGbLE0xdPFvY/PZIXRLusDGwW4kCXFLIono5A0hdMDF3f+ZQcTyqCrU2NQvPv/k/oqd+k1gyDTm5mH+nDRNsZQq4Wjh9+02wW3hwoi0SisAnCue5KAaHUq8Wr1SCRno/wL+rGsO9H/7Var1wh5WFd984sf9LSkMcnGejGBjWB+XFpBQQPXDfXiPsFqn/EgRCHCrPZwdVgPkHmeAOCwvvHlMy+t0hCueFSFZKpT+rNol0eOfqBYiEgvDtMcE+S1QbCMVReVGptGDlGsxt8Qh75GeaniuabVGCh+5eFbJcULtbVNsdisOpApWM2040I2/ZCrzavlFIJLWh+0Ogy23G9MkMwsMcFrp/K8IrN86ax8NYUCRESWvoAtcsY3G51oRwhMJ58Tf8Ie3GoElKe6ELzKvNHc/AeSkyJlDVrE73mFd7sso0plBd4BcHzahrjY6Z0ozXSa66ZDJBsF/fJ6ve89WlOBtj2ez9CwA/65mi2gKZAAAAAElFTkSuQmCC" style="max-width: 20px; max-height: 20px; margin-right: 2px;"></img>
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAA7NJREFUSEvFlltoE0EUhv/ZTUxEa1vbahEsgiapWryj2MTigygKplJBWoqIKIqkqHirVNDUiiLitRZvqCjS+CQmVcEXUWlf+lRMCl6xjQbqhdJGbWNMdmR3s3GT3U03peC8TGZ3cr7znzlzzpL8/HyK/zDIaMG5EwnKLLzPcr9Jch14x2Dwp7amUYNbGoCatRSgPCx1hH9xqNjKINinHcpRgUuKga5WCRgHwMoIcWw+yuBxe+bzGxX4XiOwrpxRtXz1AUXDlZHTJmuwYx6F77QBoBxAmJQ58BGocI0M5T3OGvzoFIvyMqXx8BBBxe44gl8SgTDnAJEfmvHWBJPiUjBbroF7eha0yycYcJQReJsYEFk+UQph7brEwfNMdIhsaASmWkHv7NCEq4IlKHivAcQbFwlzW5MB9jlKEZ7nHFzNnAjlHd7ZKvzm+t5owhXgdCjndQuKHXMJfMdYUBAQ0OQc6AXWu/9g8Ne/MJAFTjCV7ozwFLAWVFB71KhQGx4C1h+Pwd+jPPOR4ElwJqh9NoHvCH9X+SvEh1Sc665z8LwUQ6w2MsEFcCaooLbBiPLS1Ht7vz0G13W+eIxQKDTCToqWrKKobgY1mMUzSZypZM5RysBbb1RYDwTjGBjShp7xcmh/nUg4GZyNfAX74BDItMvvaTQmlrx0qKC2fhzKbepVSgt7vyMO180/Ka/lYc+ZREGst/y0PzwRlqWFGLhxGH0PxavAD7uNge+AQVGh0iuWfO3piKHudkzhU3FVLfK2ncK7zu+YUgyQopIZdGbLE0xdPFvY/PZIXRLusDGwW4kCXFLIono5A0hdMDF3f+ZQcTyqCrU2NQvPv/k/oqd+k1gyDTm5mH+nDRNsZQq4Wjh9+02wW3hwoi0SisAnCue5KAaHUq8Wr1SCRno/wL+rGsO9H/7Var1wh5WFd984sf9LSkMcnGejGBjWB+XFpBQQPXDfXiPsFqn/EgRCHCrPZwdVgPkHmeAOCwvvHlMy+t0hCueFSFZKpT+rNol0eOfqBYiEgvDtMcE+S1QbCMVReVGptGDlGsxt8Qh75GeaniuabVGCh+5eFbJcULtbVNsdisOpApWM2040I2/ZCrzavlFIJLWh+0Ogy23G9MkMwsMcFrp/K8IrN86ax8NYUCRESWvoAtcsY3G51oRwhMJ58Tf8Ie3GoElKe6ELzKvNHc/AeSkyJlDVrE73mFd7sso0plBd4BcHzahrjY6Z0ozXSa66ZDJBsF/fJ6ve89WlOBtj2ez9CwA/65mi2gKZAAAAAElFTkSuQmCC" style="max-width: 20px; max-height: 20px; margin-right: 2px;"/>
                     <span>API</span>
                 </h2>
             </div>
@@ -26,7 +26,7 @@
                             max-width: 20px;
                             max-height: 20px;
                             margin-right: 2px;
-                        "></img>
+                        "/>
                     <span>BOT</span>
                 </h2>
             </div>
@@ -46,7 +46,7 @@
                             max-width: 20px;
                             max-height: 20px;
                             margin-right: 2px;
-                        "></img>
+                        "/>
                     <span>JOB</span>
                 </h2>
             </div>
@@ -66,7 +66,7 @@
                             max-width: 20px;
                             max-height: 20px;
                             margin-right: 2px;
-                        "></img>
+                        "/>
                     <span>WEB</span>
                 </h2>
             </div>
@@ -85,7 +85,7 @@
                         max-width: 20px;
                         max-height: 20px;
                         margin-right: 2px;
-                    "></img>
+                    "/>
                 <span>DB</span>
             </h2>
         </div>
@@ -95,7 +95,7 @@
                         max-width: 20px;
                         max-height: 20px;
                         margin-right: 2px;
-                    "></img>
+                    "/>
                 <span>Analytics</span>
             </h2>
         </div>
@@ -106,7 +106,7 @@
                             max-width: 20px;
                             max-height: 20px;
                             margin-right: 2px;
-                        "></img>
+                        "/>
                     <span>APPS</span>
                 </h2>
             </div>
