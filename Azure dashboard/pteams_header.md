@@ -2,15 +2,19 @@
     <div style='display: flex; flex-flow: row nowrap; justify-content: center; height: 55px; margin: 0px -15px;'>
         <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid transparent; border-right: 2px solid #e7e7e7; flex-direction: column;'>
             <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/appconfig.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>APP CONFIG</span>
+                <span>
+                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/appconfig.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                    <span>APP CONFIG</span>
+                </span>
             </h2>
         </div>
         <div style='box-sizing: border-box; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; display: flex; flex: 1.5; flex-direction: column; width: 100%;'>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/functionapp.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>API</span>
+                    <span>
+                        <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/functionapp.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                        <span>API</span></s
+                    pan>
                 </h2>
             </div>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center; align-content: center; align-items: center;'>
@@ -28,8 +32,10 @@
         <div style='box-sizing: border-box; display: flex; flex: 1.5; flex-direction: column; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7;'>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/bot.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>BOT</span>
+                    <span>
+                        <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/bot.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                        <span>BOT</span></s
+                    pan>
                 </h2>
             </div>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center; align-content: center; align-items: center;'>
@@ -47,8 +53,10 @@
         <div style='box-sizing: border-box; display: flex; flex: 1; flex-direction: column; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7;'>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/webjob.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>JOB</span>
+                    <span>
+                        <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/webjob.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                        <span>JOB</span></s
+                    pan>
                 </h2>
             </div>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center; align-content: center; align-items: center;'>
@@ -63,8 +71,10 @@
         <div style='box-sizing: border-box; display: flex; flex: 1; flex-direction: column; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7;'>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/webapp.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>WEB</span>
+                    <span>
+                        <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/webapp.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                        <span>WEB</span></s
+                    pan>
                 </h2>
             </div>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center; align-content: center; align-items: center;'>
@@ -78,27 +88,35 @@
         </div>
         <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column;'>
             <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/db.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>DB</span>
+                <span>
+                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/db.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                    <span>DB</span></s
+                pan>
             </h2>
         </div>
         <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column;'>
             <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/storageaccount.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>Storage</span>
+                <span>
+                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/storageaccount.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                    <span>Storage</span></s
+                pan>
             </h2>
         </div>
         <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column;'>
             <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/health.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>Analytics</span>
+                <span>
+                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/health.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                    <span>Analytics</span></s
+                pan>
             </h2>
         </div>
         <div style='box-sizing: border-box; display: flex; flex: 1; width: 100%; flex-direction: column; border-left: 2px solid #e7e7e7; border-right: 2px solid transparent;'>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/appregistration.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
-                <span>APPS</span>
+                    <span>
+                        <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/appregistration.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px;'/>
+                        <span>APPS</span></s
+                    pan>
                 </h2>
             </div>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center; align-content: center; align-items: center;'>
