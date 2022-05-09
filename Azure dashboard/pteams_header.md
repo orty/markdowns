@@ -99,7 +99,7 @@
         </div>
         <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column;'>
             <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
-                <span>STOR.</span>
+                <span>Storage</span>
             </h2>
         </div>
         <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column;'>
