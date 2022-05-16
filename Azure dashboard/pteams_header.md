@@ -1,6 +1,6 @@
 <div style='position: absolute;inset: -4px 0;'>
     <div style='display: flex; flex-flow: row nowrap; justify-content: center; height: 55px; margin: 0px -15px;'>
-        <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid transparent; border-right: 2px solid #e7e7e7; flex-direction: column;'>
+        <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; margin-left: -2px; border-right: 2px solid #e7e7e7; flex-direction: column;'>
             <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
                 <span>
                     <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/appconfig.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px; vertical-align: bottom;'/>
@@ -110,7 +110,7 @@
                 pan>
             </h2>
         </div>
-        <div style='box-sizing: border-box; display: flex; flex: 1; width: 100%; flex-direction: column; border-left: 2px solid #e7e7e7; border-right: 2px solid transparent;'>
+        <div style='box-sizing: border-box; display: flex; flex: 1; width: 100%; flex-direction: column; margin-right: -2px; border-left: 2px solid #e7e7e7;'>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
                     <span>
