@@ -8,7 +8,7 @@
                 </span>
             </h2>
         </div>
-        <div style='box-sizing: border-box; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; display: flex; flex: 1.5; flex-direction: column; width: 100%;'>
+        <div style='box-sizing: border-box; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; display: flex; flex: 2; flex-direction: column; width: 100%;'>
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
                     <span>
@@ -20,6 +20,9 @@
             <div style='display: flex; flex-flow: row nowrap; justify-content: center; align-content: center; align-items: center;'>
                 <div style='display: flex; flex: 1; width: 100%; border-right: 1px solid #e7e7e7; padding: 0px 7.5px; height: 100%; flex-flow: row nowrap; justify-content: center; align-items: center;'>
                     <h5 style='margin: 0; padding: 0; text-align: center;'>Function app</h5>
+                </div>
+                <div style='display: flex; flex: 1; width: 100%; border-left: 1px solid #e7e7e7; border-right: 1px solid #e7e7e7; padding: 0px 7.5px; height: 100%; flex-flow: row nowrap; justify-content: center; align-items: center;'>
+                    <h5 style='margin: 0; padding: 0; text-align: center;'>Web app</h5>
                 </div>
                 <div style='display: flex; flex: 1; width: 100%; border-left: 1px solid #e7e7e7; border-right: 1px solid #e7e7e7; padding: 0px 7.5px; height: 100%; flex-flow: row nowrap; justify-content: center; align-items: center;'>
                     <h5 style='margin: 0; padding: 0; text-align: center;'>App Insights</h5>
