@@ -8,10 +8,10 @@
                 </span>
             </h2>
         </div>
-        <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; margin-left: -2px; border-right: -4px solid #e7e7e7; flex-direction: column;'>
+        <div style='box-sizing: border-box; display: flex; flex: 0.5; width: 100%; border-left: 2px solid #e7e7e7; border-right: 2px solid #e7e7e7; flex-direction: column;'>
             <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
                 <span>
-                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/eventhub.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px; vertical-align: bottom;'/>
+                    <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/eventhub.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: -4px; vertical-align: bottom;'/>
                     <span>EVENT HUB</span>
                 </span>
             </h2>
