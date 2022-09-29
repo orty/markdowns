@@ -21,7 +21,7 @@
             <h2>Testing</h2>
         </div>
         <div style="box-sizing: border-box;border-top: 2px solid rgb(231, 231, 231);border-bottom: 2px solid transparent;flex: 1;display: flex;flex-flow: column;justify-content: center;align-items: end;">
-            <h2>Production</h2>
+            <h2>Prod</h2>
         </div>
     </div>
 </div>
