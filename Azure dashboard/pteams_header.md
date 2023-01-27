@@ -174,3 +174,10 @@
         </div>
     </div>
 </div>
+
+<style>
+    .fxc-pill-content-key {
+        font-weight: bold;
+        font-style: italic;
+    }
+</style>
