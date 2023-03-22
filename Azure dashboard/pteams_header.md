@@ -20,7 +20,7 @@
             <div style='display: flex; flex-flow: row nowrap; justify-content: center;'>
                 <h2 style='margin: 0px; padding: 0px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; text-align: center;'>
                     <span>
-                        <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/functionapp.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px; vertical-align: bottom;'/>
+                        <img src='https://github.com/orty/markdowns/blob/main/images/azure%20portal/webapp.png?raw=true' style='max-width: 20px; max-height: 20px; margin-right: 2px; vertical-align: bottom;'/>
                         <span>API</span>
                     </span>
                 </h2>
